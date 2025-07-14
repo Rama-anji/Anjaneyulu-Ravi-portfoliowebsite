@@ -63,7 +63,7 @@ function Contact() {
         <div className="contact-info">
           <p><FaEnvelope /> anjaneyuluravi64@gmail.com</p>
           <p><FaPhone /> +91 6301932501</p>
-          <p><FaLinkedin /> <a href="https://linkedin.com/in/anjaneyulu-ravi" target="_blank" rel="noreferrer">linkedin.com/in/anjaneyulu-ravi</a></p>
+          <p><FaLinkedin /> <a href="https://www.linkedin.com/in/anjaneyulu-ravi-058076220" target="_blank" rel="noreferrer">linkedin.com/in/anjaneyulu-ravi</a></p>
           <p><FaGithub /> <a href="https://github.com/Rama-anji" target="_blank" rel="noreferrer">github.com/Rama-anji</a></p>
         </div>
 

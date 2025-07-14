@@ -17,7 +17,7 @@ function Footer() {
           <a href="mailto:anjaneyuluravi64@gmail.com" target="_blank" rel="noreferrer">
             <FaEnvelope />
           </a>
-          <a href="https://linkedin.com/in/anjaneyulu-ravi" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/anjaneyulu-ravi-058076220" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
           <a href="https://github.com/Rama-anji" target="_blank" rel="noreferrer">

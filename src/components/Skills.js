@@ -71,7 +71,7 @@ const skillsData = {
     {
       name: "MySQL",
       icon: "devicon-mysql-plain colored",
-      proficiency: 100,
+      proficiency: 90,
       description:
         "Managed relational data, joins, and queries using MySQL for storing user data and job details.",
     },
@@ -108,7 +108,7 @@ const skillsData = {
     {
       name: "VS Code",
       icon: "devicon-vscode-plain colored",
-      proficiency: 100,
+      proficiency: 90,
       description:
         "Developed and debugged apps in VS Code using extensions, terminal, and Git integration.",
     },

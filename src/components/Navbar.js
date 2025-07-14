@@ -22,11 +22,20 @@ function Navbar() {
 
       <button className="hire-button">Hire Me</button>
 
-      <div className="hamburger" onClick={toggleMenu}>
-        <div className="bar"></div>
-        <div className="bar"></div>
-        <div className="bar"></div>
-      </div>
+<div className="hamburger-container">
+  {isMobileMenuOpen ? (
+    <div className="close-icon" onClick={toggleMenu}>
+      &times;
+    </div>
+  ) : (
+    <div className="hamburger" onClick={toggleMenu}>
+      <div className="bar"></div>
+      <div className="bar"></div>
+      <div className="bar"></div>
+    </div>
+  )}
+</div>
+
     </header>
   );
 }

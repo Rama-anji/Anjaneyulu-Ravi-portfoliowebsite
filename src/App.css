@@ -59,6 +59,20 @@ body {
 
 /* Responsive Styles */
 
+.hamburger-container {
+  display: none;
+}
+
+.close-icon {
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #333;
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
 .hamburger {
   display: none;
   flex-direction: column;
@@ -76,8 +90,20 @@ body {
 
 /* Responsive layout */
 @media (max-width: 768px) {
+    .hamburger-container {
+    display: block;
+  }
+
+  .close-icon {
+    z-index: 999;
+  }
+  
+    .navbar-center a::after {
+    display: none;
+  }
   .navbar {
     flex-wrap: wrap;
+    position: relative;
     padding: 15px 20px;
   }
 
