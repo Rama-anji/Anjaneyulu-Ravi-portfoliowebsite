@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Anjaneyulu-Ravi-portfoliowebsite/static/css/main.1fbac944.css",
-    "main.js": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/main.870001a4.js",
+    "main.css": "/Anjaneyulu-Ravi-portfoliowebsite/static/css/main.204bad84.css",
+    "main.js": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/main.711b20c2.js",
     "static/js/453.acca0757.chunk.js": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/453.acca0757.chunk.js",
     "static/media/rklegal1.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/rklegal1.9d5d798997059366979d.png",
     "static/media/fmh1.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/fmh1.ccc55bd33d1c638d306e.png",
     "static/media/fmh2.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/fmh2.37e174e56cdd663acc94.png",
+    "static/media/Anjaneyulu-resume.pdf": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/Anjaneyulu-resume.b350a61eae0a092c8332.pdf",
     "static/media/rklegal2.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/rklegal2.1b5eb8fdc7c35aa34123.png",
     "static/media/ravi-anjaneyulu.jpg": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/ravi-anjaneyulu.4a0657ec44a410bcf557.jpg",
-    "static/media/Anjaneyulu-resume.pdf": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/Anjaneyulu-resume.4475f8cd206f646107a3.pdf",
     "static/media/careersarbsit1.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/careersarbsit1.7ab70e583425e7d48c0e.png",
     "static/media/careersarbsit2.png": "/Anjaneyulu-Ravi-portfoliowebsite/static/media/careersarbsit2.1189e57744809868f498.png",
     "index.html": "/Anjaneyulu-Ravi-portfoliowebsite/index.html",
-    "main.1fbac944.css.map": "/Anjaneyulu-Ravi-portfoliowebsite/static/css/main.1fbac944.css.map",
-    "main.870001a4.js.map": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/main.870001a4.js.map",
+    "main.204bad84.css.map": "/Anjaneyulu-Ravi-portfoliowebsite/static/css/main.204bad84.css.map",
+    "main.711b20c2.js.map": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/main.711b20c2.js.map",
     "453.acca0757.chunk.js.map": "/Anjaneyulu-Ravi-portfoliowebsite/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fbac944.css",
-    "static/js/main.870001a4.js"
+    "static/css/main.204bad84.css",
+    "static/js/main.711b20c2.js"
   ]
 }
